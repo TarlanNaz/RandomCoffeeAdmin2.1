@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@ant-design/icons": "npm:@ant-design/icons@^5.5.1",
+    "antd": "npm:antd@^5.22.2"
+  }
+}

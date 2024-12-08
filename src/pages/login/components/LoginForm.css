@@ -1,0 +1,21 @@
+.custom-input:hover {
+    border-color: #A47B67 !important;
+  }
+  
+  .custom-input:focus {
+    border-color: #A47B67 !important;
+    box-shadow: 0 0 0 2px rgba(164, 123, 103, 0.2) !important;
+  }
+  
+  .primary-button:hover {
+    background: #8B6B5A !important;
+    border-color: #8B6B5A !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(164, 123, 103, 0.3) !important;
+  }
+  
+  .secondary-button:hover {
+    background: #F5F0ED !important;
+    border-color: #A47B67 !important;
+    color: #A47B67 !important;
+  }
